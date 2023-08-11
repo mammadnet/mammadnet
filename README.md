@@ -14,11 +14,5 @@
 <h2> Code with:</h2>
 
 <p align="center">
-  <a>
-        
-    <img src="https://skillicons.dev/icons?i=js,nodejs,vscode,neovim, fedora, zsh, bash" />
-    <img alt="fedora logo" src="./assets/logo/fedora.svg" />
-    </a>
-
+    <img src="https://skillicons.dev/icons?i=js,nodejs,neovim,c,git,linux,bash," />
 </p>
-
