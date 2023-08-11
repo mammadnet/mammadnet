@@ -15,7 +15,10 @@
 
 <p align="center">
   <a>
+        
     <img src="https://skillicons.dev/icons?i=js,nodejs,vscode,neovim, fedora, zsh, bash" />
+    <img alt="fedora logo" src="./assets/logo/fedora.svg" />
     </a>
+
 </p>
 
