@@ -1,6 +1,6 @@
 <p align="center">
  <kbd>
- <img width="700" alt="picture"  src="https://random-image.familinam6754699.workers.dev">
+ <img height="500" alt="picture"  src="https://random-image.familinam6754699.workers.dev">
  </kbd>
 
 </p>
