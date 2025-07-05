@@ -9,7 +9,7 @@
 
 <h1>Hi :wave:</h1> 
 <p>
- I'm mohsen (or mohamad!), iranian software developer who love <b>linux</b>, <b>open source</b> and <b><i> freedom </i></b>
+ I'm mohsen (or mohamad!), a software developer who love <b>linux</b>, <b>open source</b> and <b><i> freedom </i></b>
 </p>
 <h2> Code with:</h2>
 
