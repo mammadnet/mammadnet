@@ -14,5 +14,5 @@
 <h2> Code with:</h2>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,neovim,c,git,linux,bash," />
+    <img src="https://skillicons.dev/icons?i=python,neovim,c,git,linux,bash," />
 </p>
