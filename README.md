@@ -15,4 +15,4 @@
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=python,neovim,c,git,linux,bash,docker" />
-</p>r
+</p>
