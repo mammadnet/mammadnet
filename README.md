@@ -11,7 +11,7 @@
 <p>
  I'm mohsen (or mohamad!), a software developer who love <b>linux</b>, <b>open source</b> and <b><i> freedom </i></b>
 </p>
-<a href="https://mamadnet.ir">Mamadnet.ir</a>
+<a href="https://mamadnet.ir" target="_blank">Mamadnet.ir</a>
 <h2> Code with:</h2>
 
 <p align="center">
